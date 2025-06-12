@@ -25,7 +25,9 @@ Il intègre à la fois un prétraitement du texte, un entraînement de modèle s
 📁 Structure du projet
 
 spam_classifier/
+
 │
+
 ├── spam.csv                    # Données d'entraînement (SMS taggés "spam" ou "ham")
 
 ├── spam_classifier.pkl         # (Généré) Modèle entraîné sauvegardé
